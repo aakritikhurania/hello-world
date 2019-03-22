@@ -1,2 +1,3 @@
 # hello-world
-Learning
+printf("Hello World");
+
